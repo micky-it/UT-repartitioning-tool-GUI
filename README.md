@@ -9,11 +9,12 @@
 
 Hello everyone! In these days I have taken my old script "Ut repartitioning tool" and I have added the graphical interface. The program was created with PyQT5 and compiled with nuitka. For now the program is only available for linux but in the next few days they will compile it for all the other platforms.
 
-***Attention: The creator of the program is not responsible in any way for damage to your device!***
+***Warning: The creator of the program is not responsible in any way for damage to your device!***
 
-***Attention: this is the first version of the programm, if you find some problems open an issues!***
+***Warning: this is the first version of the programm, if you find some problems open an issues!***
 
 To use the program (no GUI) for all platforms apart from windows go here:
+
 https://github.com/micky-it/UT-repartitioning-script
 
 ## How to use
