@@ -9,6 +9,9 @@
 
 Hello everyone! In these days I have taken my old script "Ut repartitioning tool" and I have added the graphical interface. The program was created with PyQT5 and compiled with nuitka. For now the program is only available for linux but in the next few days they will compile it for all the other platforms.
 
+### When the program reaches 20% it will take about 5 minutes, don't worry!
+
+
 ***Warning: The creator of the program is not responsible in any way for damage to your device!***
 
 ***Warning: this is the first version of the programm, if you find some problems open an issues!***
