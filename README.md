@@ -1,6 +1,6 @@
 # UT repartitioning tool with GUI
 
-## This programm modifies your Ubuntu phone's / partition and brings it to about 6 gigabytes
+## This program modifies your Ubuntu phone's / partition and brings it to about 6 gigabytes
 
 
 ![](https://raw.githubusercontent.com/micky-it/UT-repartitioning-tool-GUI/main/images/image.png)
