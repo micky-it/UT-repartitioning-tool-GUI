@@ -3,11 +3,11 @@
 ## This programm modifies your Ubuntu phone's / partition and brings it to about 6 gigabytes
 
 
-![](https://raw.githubusercontent.com/micky-it/UT-repartitioning-tool-GUI/main/UT-repartitioning-tool-GUI/images/image.png)
+![](https://raw.githubusercontent.com/micky-it/UT-repartitioning-tool-GUI/main/images/image.png)
 
 
 
-Hello everyone! in these days I have taken my old script "Ut repartitioning tool" and I have added the graphical interface. The program was created with PyQT5 and compiled with nuitka. For now the program is only available for linux but in the next few days they will compile it for all the other platforms.
+Hello everyone! In these days I have taken my old script "Ut repartitioning tool" and I have added the graphical interface. The program was created with PyQT5 and compiled with nuitka. For now the program is only available for linux but in the next few days they will compile it for all the other platforms.
 
 ***Attention: The creator of the program is not responsible in any way for damage to your device!***
 
