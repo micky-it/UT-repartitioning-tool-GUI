@@ -9,7 +9,7 @@
 
 Hello everyone! In these days I have taken my old script "Ut repartitioning tool" and I have added the graphical interface. The program was created with PyQT5 and compiled with nuitka. For now the program is only available for linux but in the next few days they will compile it for all the other platforms.
 
-### When the program reaches 20% it will take about 5 minutes, don't worry!
+### When the program reaches 20% or 50% it will take about 5 minutes, don't worry!
 
 
 ***Warning: The creator of the program is not responsible in any way for damage to your device!***
@@ -24,10 +24,20 @@ https://github.com/micky-it/UT-repartitioning-script
 
 To use the program just download the binary file and run it in the terminal (if you want to see if there are any errors) or simply by double clicking on it
                                      
-**Now avaible only for linux**
+**Now avaible only for linux and for Windows**
+
+**Linux**
 
 Before starting the program write to the terminal:
 `$ sudo apt install adb`
+
+**Windows**
+
+To use this program on windows download the latest zip file, unzip in a folder and start as administrator `start-and-fix.bat`
+
+***Warning! Not tested on phone!***
+
+
 
 **Only now** for Mac OS
 If you want to use this program on mac before the official porting, run 
