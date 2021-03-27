@@ -42,7 +42,7 @@ To use this program on windows download the latest zip file, unzip in a folder a
 **Only now** for Mac OS
 If you want to use this program on mac before the official porting, run 
 
-`$ sudo brew install android-platform-tools`
+`$ brew install android-platform-tools`
 
 Then download the resource codes and start UT-repartitioning-tool.py
 
