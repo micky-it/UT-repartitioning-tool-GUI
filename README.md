@@ -49,4 +49,4 @@ Then download the resource codes and start UT-repartitioning-tool.py
 ## Donations
 I am 13 years old and I really like computer science and programming. If you think this programm was useful for you, you can support me by donating bitcoins to the following address:
 
-> **`bc1q0d6hnwnx4rmfwdjy3mcne9vj8rkn7wxuulu7dd`**
+> **`1FbKuHZrtvhNnZ87N79AHfX6BzuLmS9mpN`**
