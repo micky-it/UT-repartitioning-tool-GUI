@@ -45,8 +45,3 @@ If you want to use this program on mac before the official porting, run
 `$ brew install android-platform-tools`
 
 Then download the resource codes and start UT-repartitioning-tool.py
-
-## Donations
-I am 13 years old and I really like computer science and programming. If you think this programm was useful for you, you can support me by donating bitcoins to the following address:
-
-> **`1FbKuHZrtvhNnZ87N79AHfX6BzuLmS9mpN`**
